@@ -44,6 +44,8 @@ ol, ul {
 
 /* Style */
 
+/* index */
+
 html{
     font-family: var(--font-family);
 }
@@ -143,5 +145,7 @@ footer{
     display: flex;
     justify-content: center;
 }
+
+/* Object */
 
 
